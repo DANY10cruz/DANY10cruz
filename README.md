@@ -28,3 +28,10 @@ Estudiante de Desarrollo Full Stack con una sólida base en desarrollo web. Apas
 
 **20/11/2024**
 6:15PM
+
+
+
+
+
+
+Me siento relax
