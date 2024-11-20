@@ -24,3 +24,7 @@ Estudiante de Desarrollo Full Stack con una sólida base en desarrollo web. Apas
 
 
 [Linkedin](https://www.linkedin.com/in/daniel-alejandro-cruz-vargas/)
+
+
+**20/11/2024**
+6:15PM
