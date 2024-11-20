@@ -19,3 +19,8 @@ Estudiante de Desarrollo Full Stack con una sólida base en desarrollo web. Apas
 4. *Creatividad*: Pensamiento innovador, resolución de problemas, diseño.
 5. *Adaptabilidad*: Flexibilidad, manejo del cambio, aprendizaje continuo.
 6. *Liderazgo*: Motivación de equipos, toma de decisiones, delegación.
+
+
+
+
+[Linkedin](https://www.linkedin.com/in/daniel-alejandro-cruz-vargas/)
