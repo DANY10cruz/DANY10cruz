@@ -1,37 +1,59 @@
-# DANY10cruz
+<h1 align="center">👋 ¡Hola! Soy Daniel Alejandro Cruz Vargas</h1>
 
-# Daniel Alejandro Cruz Vargas
-Estudiante de Desarrollo Full Stack con una sólida base en desarrollo web. Apasionado por crear interfaces de usuario intuitivas y funcionales. Busco una oportunidad para aplicar mis conocimientos en un entorno de desarrollo dinámico y aprender de profesionales experimentados.
+<p align="center">
+  🎓 Estudiante de Desarrollo <strong>Full Stack</strong><br>
+  💻 Apasionado por el desarrollo web y la creación de interfaces intuitivas<br>
+  🚀 En búsqueda de oportunidades para aplicar y seguir aprendiendo de profesionales del sector<br>
+</p>
 
-**Habilidades Técnicas**
+---
 
-- Front-end: HTML5, CSS3, JavaScript, React (en proceso de aprendizaje)
-- Back-end: Node.js (basico), Python (en proceso de aprendizaje), SQL
-- Versionamiento: Git
-- Herramientas: Visual Studio Code
+## 🚀 Tecnologías y Herramientas
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+</p>
 
- **Habilidades Blandas**
+---
 
-1. *Comunicación*: Hablar en público, negociación, redacción, escucha activa.
-2. *Trabajo en equipo*: Colaboración, resolución de conflictos, liderazgo.
-3. *Organización*: Gestión del tiempo, planificación, atención al detalle.
-4. *Creatividad*: Pensamiento innovador, resolución de problemas, diseño.
-5. *Adaptabilidad*: Flexibilidad, manejo del cambio, aprendizaje continuo.
-6. *Liderazgo*: Motivación de equipos, toma de decisiones, delegación.
+## 🧠 Habilidades Técnicas
 
+- **Front-end:** HTML5, CSS3, JavaScript, Bootstrap, Angular (TypeScript), React _(en proceso de aprendizaje)_
+- **Back-end:** Node.js _(básico)_, Python _(en proceso de aprendizaje)_, SQL, MongoDB
+- **Control de versiones:** Git, GitHub
+- **Entorno de desarrollo:** Visual Studio Code
 
+---
 
+## 💡 Habilidades Blandas
 
-[Linkedin](https://www.linkedin.com/in/daniel-alejandro-cruz-vargas/)
+- **Comunicación:** Hablar en público, negociación, redacción, escucha activa
+- **Trabajo en equipo:** Colaboración, resolución de conflictos, liderazgo
+- **Organización:** Gestión del tiempo, planificación, atención al detalle
+- **Creatividad:** Pensamiento innovador, resolución de problemas, diseño
+- **Adaptabilidad:** Flexibilidad, manejo del cambio, aprendizaje continuo
+- **Liderazgo:** Motivación de equipos, toma de decisiones, delegación
 
+---
 
-**20/11/2024**
-6:15PM
+## 🌐 Redes Sociales
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/daniel-alejandro-cruz-vargas-desarrolladorweb)
 
+---
 
+---
 
-
-
-Me siento relax
+<p align="center">
+  ¡Gracias por visitar mi perfil! 💻✨
+</p>
