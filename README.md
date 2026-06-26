@@ -128,7 +128,7 @@ const daniel = {
 
 | 💼 LinkedIn | 📧 Email | 💻 GitHub |
 |:-----------:|:--------:|:---------:|
-| [daniel-alejandro-cruz-vargas](https://www.linkedin.com/in/daniel-alejandro-cruz-vargas-desarrolladorweb) | [TU_EMAIL@gmail.com](mailto:TU_EMAIL@gmail.com) | [@DANY10cruz](https://github.com/DANY10cruz) |
+| [daniel-alejandro-cruz-vargas](https://www.linkedin.com/in/daniel-alejandro-cruz-vargas-desarrolladorweb) | [TU_EMAIL@gmail.com]() | [@DANY10cruz](https://github.com/DANY10cruz) |
 
 </div>
 
